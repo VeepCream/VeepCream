@@ -1,9 +1,7 @@
 
 
 > #### My name is Veerapat Preechapant
-
 > ##### I am React Native Developer at SABUY TECHNOLOGY PUBLIC COMPANY LIMITED
-
 > ##### I have been React Native Developer for two years and two mouths
 
 ##### **Experience****
