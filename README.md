@@ -25,7 +25,6 @@
 ###### Mobile Application Developer at Intelligent Millionaire
 
 * Use Cordova to create an application.
-
 * My project was made to specify pin maps in Google Maps. Set server(REST) for service API.
 * I am able to built on native applications with JAVA or edited with
   Cordova's plugin.
