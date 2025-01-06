@@ -1,8 +1,8 @@
 
 
 > #### My name is Veerapat Preechapant
-> ##### I am React Native Developer at The LivingOS Co., Ltd.
-> ##### I have been React Native Developer for two years and two mouths
+> ##### I am Tech Lead at The LivingOS Co., Ltd.
+> ##### I have been Tech Lead around 4 years
 
 ##### **Experience**
 
